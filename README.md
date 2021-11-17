@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cheoljin%20Ju&fontSize=90)
-
 <h3 align="center"> 👋 Hi, there  </h3>
 
 <h4 align="center">안녕하세요! 끈기와 성취로 일하는 프론트엔드 개발자 주철진입니다.</h4>
