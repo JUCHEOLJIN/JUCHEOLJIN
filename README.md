@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white" style="inline-block"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white" style="inline-block"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=Javascript&logoColor=white" style="inline-block"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=Javascript&logoColor=white" style="inline-block"/><br/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white" style="inline-block"/>
 <img src="https://img.shields.io/badge/REACT-blue?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/MOBX-FF9955?style=flat-square&logo=MobX&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-pink?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/> 
