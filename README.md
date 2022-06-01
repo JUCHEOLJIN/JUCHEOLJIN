@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <h4 align="center">안녕하세요! 끈기와 성취로 일하는 프론트엔드 개발자 주철진입니다.</h4>
 
+<div align="center"><span>🗒</span> <a href="https://dev-jay.tistory.com/">Blog</a> <span>|</span> <a href="mailto:toto006521@gmail.com">Email</a> </div>
+
 <br>
 
 <h3 align="center"> ⚙ Technology Stack </h3>
